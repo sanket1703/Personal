@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rand Add</string>
+    <string name="answer">Answer</string>
+    <string name="title_activity_second">Second</string>
+    <string name="Number_1">Number 1</string>
+    <string name="Number_2">Number 2</string>
+    <string name="Go">Go</string>
+    <string name="Addition">Addition</string>
+    <string name="Multiplication">Multiplication</string>
+    <string name="Division">Division</string>
+    <string name="Easy">Easy</string>
+    <string name="Medium">Medium</string>
+    <string name="Difficult">Difficult</string>
+    <string name="result">result</string>
+    <string name="check">check!</string>
+    <string name="Generate">Generate</string>
+
+
+
+
+</resources>
